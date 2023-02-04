@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/Restaurant_jar/Restaurant.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/bcprov.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/jackcess-encrypt-2.1.1.jar"/>
+	<classpathentry kind="lib" path="ucanaccess/ucanaccess-3.0.2.jar"/>
+	<classpathentry kind="output" path="out/production/Restaurant"/>
+</classpath>
